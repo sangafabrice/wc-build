@@ -1,0 +1,15 @@
+{
+  "name": "wc-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "watch": "index.js"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "workspaces": [ "minify/" ]
+}
